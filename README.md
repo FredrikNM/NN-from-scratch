@@ -1,4 +1,4 @@
 # NN-from-scratch
-Understanding the input to controll a robot arm
-
-Old school task to create an Neural Network from scratch, and train in on data that is used to controll a robot arm
+A Neural Network design to interpret the input (dont remember if the input is nerve impulses from a human or for a factory machine)
+to controll a robot arm
+\
